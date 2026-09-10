@@ -1,0 +1,10 @@
+{
+  "pairs": {
+    "CNY/USD": {"quotation": "indirect", "scale": 4},
+    "CNY/EUR": {"quotation": "indirect", "scale": 4},
+    "CNY/JPY": {"quotation": "indirect", "scale": 2}
+  },
+  "rounding": "HALF_UP",
+  "basis_point_scale": 4,
+  "statuses": ["valid", "rejected"]
+}
